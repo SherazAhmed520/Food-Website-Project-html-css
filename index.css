@@ -1,0 +1,23 @@
+hr  {
+    background: rgb(0, 0, 0);
+}
+h2{
+    position: center;
+    text-align: center;
+    background-color: rgb(255, 43, 43);  
+}
+
+.ab-5{
+    color: blue;
+    text-decoration: underline;
+}
+.ab-6{
+    font-style: italic;
+}
+.ab-1{
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
